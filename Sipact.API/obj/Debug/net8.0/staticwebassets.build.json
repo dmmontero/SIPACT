@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qcBluE58khsLOXdOAVfnywtO9O/Mbmr0xYla2guASv4=",
+  "Source": "Sipact.API",
+  "BasePath": "_content/Sipact.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

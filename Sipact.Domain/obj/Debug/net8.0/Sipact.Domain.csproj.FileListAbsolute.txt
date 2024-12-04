@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\bin\Debug\net8.0\Sipact.Domain.deps.json
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\bin\Debug\net8.0\Sipact.Domain.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\bin\Debug\net8.0\Sipact.Domain.pdb
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.AssemblyInfoInputs.cache
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.AssemblyInfo.cs
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\refint\Sipact.Domain.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\Sipact.Domain.pdb
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Domain\obj\Debug\net8.0\ref\Sipact.Domain.dll

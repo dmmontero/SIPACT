@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\bin\Debug\net8.0\Sipact.Infrastructure.deps.json
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\bin\Debug\net8.0\Sipact.Infrastructure.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\bin\Debug\net8.0\Sipact.Infrastructure.pdb
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.AssemblyInfo.cs
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\refint\Sipact.Infrastructure.dll
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\Sipact.Infrastructure.pdb
+C:\Users\Tatiana\source\repos\Sipact\Sipact.Infrastructure\obj\Debug\net8.0\ref\Sipact.Infrastructure.dll
